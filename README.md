@@ -14,7 +14,9 @@ We plot the out of sample predictions of the 4 algorithms on the Toy problem:
 
 Results:
 
-|    Model    |     MSE     | 
-| ------------| ------------|
-| Content Cell| Content Cell|
-| Content Cell| Content Ce  |
+|         Model        | MSE (Best Run) | 
+| ---------------------| ---------------|
+|   Gaussian Process   | 8.930          |
+| K-Nearest Neighbours | 9.210          |
+|  Linear Regression   | 17.277         |
+|    Random Forest     | 20.299         |
