@@ -7,9 +7,14 @@ By first implementing a ‘Toy problem’ we create and train algorithms of four
 
 We plot the out of sample predictions of the 4 algorithms on the Toy problem:
 
-<img src>
-<img src>
-<img src>
-<img src>
+<img src="plots_/LR_toy_plots.png" height=250>
+<img src="plots_/KNN_toy_plots.png" height=250>
+<img src="plots_/RF_toy_plots.png" height=250>
+<img src="plots_/GP_toy_plots.png" height=250>
 
+Results:
 
+|    Model    |     MSE     | 
+| ------------| ------------|
+| Content Cell| Content Cell|
+| Content Cell| Content Ce  |
